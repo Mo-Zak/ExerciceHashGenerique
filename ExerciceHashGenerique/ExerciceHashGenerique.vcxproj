@@ -172,7 +172,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\sha3\sha256\sha256.vcxproj">
+    <ProjectReference Include="..\sha256\sha256.vcxproj">
       <Project>{42118c22-2b7b-487e-8158-cf3802565832}</Project>
     </ProjectReference>
   </ItemGroup>
